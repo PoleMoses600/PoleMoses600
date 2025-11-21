@@ -18,15 +18,25 @@ $\color{rgb(29,36,46)}{\textsf{d}}\color{rgb(31,34,46)}{\textsf{e}}\color{rgb(43
 <p align=center>
 <img width=540 height=12 src="https://github.com/user-attachments/assets/5aee6a1d-42b7-4225-afb7-7dcf636c5f88"/>
 </p>
-
-⦅˚̣̣̣། ✚    display  𓈒
-
+<p align=center>
+⦅˚̣̣̣། ✚    $\color{rgb(29,36,46)}{\textsf{x}}\color{rgb(31,34,46)}{\textsf{i}}\color{rgb(43,33,43)}{\textsf{n}}\color{rgb(85,28,36)}{\textsf{g}}$ $\color{rgb(107,33,40)}{\textsf{ᵒ}}\color{rgb(97,44,50)}{\textsf{ʳ}}$ $\color{rgb(84,61,66)}{\textsf{y}}\color{rgb(66,85,90)}{\textsf{i}}\color{rgb(52,101,105)}{\textsf{n}}\color{rgb(69,130,145)}{\textsf{g}}\color{rgb(108,141,169)}{\textsf{x}}\color{rgb(132,147,184)}{\textsf{i}}\color{rgb(175,161,212)}{\textsf{n}}\color{rgb(201,191,225)}{\textsf{g}}$  𓈒
+</p>
+<p align=center>
+𝒽ᥱ hi̲m̲ ⠀⠀  ̣̣̥ ͝⠀⠀⠀𝒸𝑜 ╱ yingxinng
+</p>
+<p align=center>
+❛ ✧ ཀ‿︵  $\color{rgba(29,36,46, 0.4)}{\textsf{⁶}}\color{rgba(114,25,31, 0.4)}{\textsf{²}}\color{rgba(38,121,125, 0.4)}{\textsf{⁶}}\color{rgba(174,160,211, 0.4)}{\textsf{﮼,}}$⠀ ︵‿⠀
 <p align=center>
 <img width=540 height=12 src="https://github.com/user-attachments/assets/5aee6a1d-42b7-4225-afb7-7dcf636c5f88"/>
+</p>
+<p align=center>
+    ゛<code style="color : lightskyblue">Of 𝘧𝘪𝘷𝘦 people, 𝙩𝙝𝙧𝙚𝙚 must pay a price</code> $\color{rgb(29,36,46)}{\textsf{․}}\color{rgb(31,34,46)}{\textsf{․}}\color{rgb(43,33,43)}{\textsf{․}}\color{rgb(85,28,36)}{\textsf{․}}\color{rgb(107,33,40)}{\textsf{․}}\color{rgb(97,44,50)}{\textsf{․}}\color{rgb(84,61,66)}{\textsf{․}}\color{rgb(66,85,90)}{\textsf{․}}\color{rgb(52,101,105)}{\textsf{․}}\color{rgb(69,130,145)}{\textsf{․}}\color{rgb(108,141,169)}{\textsf{․}}\color{rgb(132,147,184)}{\textsf{․}}\color{rgb(175,161,212)}{\textsf{․}}\color{rgb(201,191,225)}{\textsf{․}}$ ”
 </p>
 <p align=center>
 <img src=https://github.com/user-attachments/assets/bbaf561d-3042-447a-b59c-67825cf0f868>
 </p>
 <p align=center>
 <img width=540 height=7 src="https://github.com/user-attachments/assets/2e97bab1-d3d2-4b0c-b036-0920eac03580"/>
-</p>
+<p align=center>
+<img width=250 height=400 src=https://github.com/user-attachments/assets/0e84fd65-d79b-4c1a-a6a7-502a8a24b0d0>
+
