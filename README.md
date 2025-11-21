@@ -33,10 +33,12 @@ $\color{rgb(29,36,46)}{\textsf{d}}\color{rgb(31,34,46)}{\textsf{e}}\color{rgb(43
     ゛<code style="color : lightskyblue">Of 𝘧𝘪𝘷𝘦 people, 𝙩𝙝𝙧𝙚𝙚 must pay a price</code> $\color{rgb(29,36,46)}{\textsf{․}}\color{rgb(31,34,46)}{\textsf{․}}\color{rgb(43,33,43)}{\textsf{․}}\color{rgb(85,28,36)}{\textsf{․}}\color{rgb(107,33,40)}{\textsf{․}}\color{rgb(97,44,50)}{\textsf{․}}\color{rgb(84,61,66)}{\textsf{․}}\color{rgb(66,85,90)}{\textsf{․}}\color{rgb(52,101,105)}{\textsf{․}}\color{rgb(69,130,145)}{\textsf{․}}\color{rgb(108,141,169)}{\textsf{․}}\color{rgb(132,147,184)}{\textsf{․}}\color{rgb(175,161,212)}{\textsf{․}}\color{rgb(201,191,225)}{\textsf{․}}$ ”
 </p>
 <p align=center>
+$\color{rgb(29,36,46)}{\textsf{i}}\color{rgb(31,34,46)}{\textsf{t}}\color{rgb(43,33,43)}{\textsf{'}}\color{rgb(85,28,36)}{\textsf{s}}$ $\color{rgb(107,33,40)}{\textsf{s}}\color{rgb(97,44,50)}{\textsf{t}}\color{rgb(84,61,66)}{\textsf{i}}\color{rgb(66,85,90)}{\textsf{l}}\color{rgb(52,101,105)}{\textsf{l}}$ $\color{rgb(69,130,145)}{\textsf{y}}\color{rgb(108,141,169)}{\textsf{o}}\color{rgb(132,147,184)}{\textsf{u}}\color{rgb(175,161,212)}{\textsf{.}}$
+<p align=center>
 <img src=https://github.com/user-attachments/assets/bbaf561d-3042-447a-b59c-67825cf0f868>
 </p>
 <p align=center>
 <img width=540 height=7 src="https://github.com/user-attachments/assets/2e97bab1-d3d2-4b0c-b036-0920eac03580"/>
-<p align=center>
-<img width=250 height=400 src=https://github.com/user-attachments/assets/0e84fd65-d79b-4c1a-a6a7-502a8a24b0d0>
+
+<a>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=762323&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
 
