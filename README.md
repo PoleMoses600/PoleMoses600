@@ -14,7 +14,7 @@ $\color{rgb(48, 72, 110)}{\textsf{w}}\color{rgb(45, 70, 111)}{\textsf{h}}\color{
     ゛<code style="color : lightskyblue">...🅃ᧉlƖ ⴜe t̲his is the end.</code> ˶
 </p>
 <p align=center>
-<img width=550 height=300 src=https://github.com/user-attachments/assets/df26dad1-19b2-47ed-96e9-2caf6a50a77b>
+<img width=550 height=350 src=https://github.com/user-attachments/assets/bb02b436-2302-47f5-976d-661530f185ab>
 <p align=center>
 <img width=540 height=12 src="https://github.com/user-attachments/assets/9ac1a667-eae9-44e8-acc9-75a8f3b2c685"/>
 </p>
