@@ -8,7 +8,7 @@
 <img width=540 height=7 src="https://github.com/user-attachments/assets/5a36a97a-1e31-4f29-8000-a045f3ba0c58"/>
 </p>
 <p align=center>
-$\color{rgb(19,10,90)}{\textsf{a}}\color{rgb(107,5,80)}{\textsf{l}}\color{rgb(200,1,70)}{\textsf{l}}\color{rgb(214,95,151)}$ $\color{rgba(188,115,150)}{\textsf{i}}\color{rgb(138,155,149)}{\textsf{n}}\color{rgb(109,177,149)}{\textsf{!}}$
+$\color{rgb(11,5,53)}{\textsf{w}}\color{rgb(17,9,81)}{\textsf{h}}\color{rgb(29,9,88)}{\textsf{e}}\color{rgb(45,8,87)}{\textsf{n}}$ $\color{rgb(87,6,82)}{\textsf{w}}\color{rgb(130,4,77)}{\textsf{i}}\color{rgb(168,2,73)}{\textsf{l}}\color{rgb(200,1,70)}{\textsf{l}}$ $\color{rgb(204,34,98)}{\textsf{d}}\color{rgb(210,69,128)}{\textsf{e}}\color{rgb(209,98,150)}{\textsf{a}}\color{rgb(166,132,150)}{\textsf{t}}\color{rgb(133,158,149)}{\textsf{h}}$ $\color{rgb(11,5,53)}{\textsf{c}}\color{rgb(17,9,81)}{\textsf{o}}\color{rgb(29,9,88)}{\textsf{m}}\color{rgb(45,8,87)}{\textsf{e}}$ $\color{rgb(87,6,82)}{\textsf{f}}\color{rgb(130,4,77)}{\textsf{o}}\color{rgb(168,2,73)}{\textsf{r}}$ $\color{rgb(200,1,70)}{\textsf{m}}\color{rgb(204,34,98)}{\textsf{e}}\color{rgb(210,69,128)}{\textsf{.}}\color{rgb(209,98,150)}{\textsf{.}}$
 </p>
 <p align=center>
     ゛<code style="color : lightskyblue">...🅃ᧉlƖ ⴜe t̲his is the end.</code> ˶
@@ -39,7 +39,7 @@ $\color{rgb(120,183,157)}{\textsf{༒}}$   　◟     ۫ ִ  ⑅　   $\color{rg
     ゛<code style="color : lightskyblue">Of f𝕚v𝗲 𝗉e𐐫p𐑚e, thrꫀe must p𐓠ⴘ 𐓟 ⓟɾicᧉ.</code> ”
 </p>
 <p align=center>
-$\color{rgb(11,5,53)}{\textsf{f}}\color{rgb(17,9,81)}{\textsf{e}}\color{rgb(29,9,88)}{\textsf{e}}\color{rgb(45,8,87)}{\textsf{l}}\color{rgb(87,6,82)}{\textsf{i}}\color{rgb(130,4,77)}{\textsf{n}}\color{rgb(168,2,73)}{\textsf{g}}$ $\color{rgb(200,1,70)}{\textsf{l}}\color{rgb(204,34,98)}{\textsf{u}}\color{rgb(210,69,128)}{\textsf{c}}\color{rgb(209,98,150)}{\textsf{k}}\color{rgb(166,132,150)}{\textsf{y}}\color{rgb(133,158,149)}{\textsf{?}}\color{rgb(109,177,149)}{\textsf{?}}$
+$\color{rgb(11,5,53)}{\textsf{m}}\color{rgb(17,9,81)}{\textsf{y}}$ $\color{rgb(29,9,88)}{\textsf{p}}\color{rgb(45,8,87)}{\textsf{a}}$ $\color{rgb(87,6,82)}{\textsf{t}}\color{rgb(130,4,77)}{\textsf{i}}\color{rgb(168,2,73)}{\textsf{n}}\color{rgb(200,1,70)}{\textsf{c}}\color{rgb(204,34,98)}{\textsf{e}}$ $\color{rgb(210,69,128)}{\textsf{i}}\color{rgb(209,98,150)}{\textsf{s}}$ $\color{rgb(166,132,150)}{\textsf{w}}\color{rgb(133,158,149)}{\textsf{e}}\color{rgb(11,5,53)}{\textsf{a}}\color{rgb(17,9,81)}{\textsf{r}}\color{rgb(29,9,88)}{\textsf{i}}\color{rgb(45,8,87)}{\textsf{n}}\color{rgb(87,6,82)}{\textsf{g}}$ $\color{rgb(130,4,77)}{\textsf{t}}\color{rgb(168,2,73)}{\textsf{h}}\color{rgb(200,1,70)}{\textsf{i}}\color{rgb(204,34,98)}{\textsf{n}}\color{rgb(210,69,128)}{\textsf{.}}\color{rgb(209,98,150)}{\textsf{.}}$
 <p align=center>
 <img width=550 height=300 src=https://github.com/user-attachments/assets/44f450f7-3e32-44db-bb37-38fb3e7aef3c>
 </p>
