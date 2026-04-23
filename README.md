@@ -11,7 +11,7 @@ $\color{rgb(45, 45, 139)}{\textsf{w}}\color{rgb(88, 67, 154)}{\textsf{i}}\color{
 ୭ৎ   @ 𝑙exi ᵒʳ leo𝑛   ︶︶︶
 </p>
 <p align=center>
-𐙚    𝟶𝟶.𝟶𝟶    ε๑з    18+  ִ   $\color{rgb(237, 167, 192)}{\textsf{♡゙}}$  ࣪ 
+𐙚    ε๑з    18+  ִ   $\color{rgb(237, 167, 192)}{\textsf{♡゙}}$  ࣪ 
       </p>
 <p align=center>
 $\color{rgb(147, 109, 180)}{\textsf{ⓥ}}$ ietnames𝓮ㅤ🍨ㅤ 𓈒݂১ ̣̣♡
